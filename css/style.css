@@ -9,7 +9,7 @@ h1 {
   text-align: right;
 }
 
-#home-title {
+#home div:first-child {
   margin-bottom: 0px;
   background-image: url(../img/pano1.jpg);
   background-position: 0% 25%;
@@ -19,7 +19,7 @@ h1 {
   text-shadow: black 0.3em 0.3em 0.3em;
 }
 
-#project-title {
+#projects div:first-child {
   margin-bottom: 0px;
   background-image: url(../img/pano2.jpg);
   background-position: 0% 25%;
@@ -29,7 +29,7 @@ h1 {
   text-shadow: black 0.3em 0.3em 0.3em;
 }
 
-#geology-title {
+#geology div:first-child {
   margin-bottom: 0px;
   background-image: url(../img/pano3.jpg);
   background-position: 0% 25%;
@@ -39,7 +39,7 @@ h1 {
   text-shadow: black 0.3em 0.3em 0.3em;
 }
 
-#photography-title {
+#photography div:first-child {
   margin-bottom: 0px;
   background-image: url(../img/pano4.jpg);
   background-position: 0% 25%;
