@@ -1,5 +1,3 @@
-/*Title formatting*/
-
 h1 {
   color: gray;
   text-align: center;
@@ -9,6 +7,15 @@ h1 {
   text-align: right;
 }
 
+/* the following are attemtps to match the background color of my active navbar tab to the screen below it. The first one selects the others, the second one selects the background to the curvy little tab
+.nav-tabs > li > a{
+  background-color: gray;
+}
+
+.nav-tabs .active {
+  background-color: gray;
+}
+*/
 #home .jumbotron:first-of-type {
   margin-bottom: 0px;
   background-image: url(../img/pano1.jpg);
